@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "img": "/alice1.png",
+      "name": "Alice ",
+      "title": " Backend developer",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing eli nostrum illum quia eos voluptas tempora optio explicabo natus"
+    },
+
+    {
+      "img": "/alice2.png",
+      "name": "Alice ",
+      "title": " Backend developer",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing eli nostrum illum quia eos voluptas tempora optio explicabo natus"
+    },
+    {
+      "img": "/alice3.png",
+      "name": "Alice ",
+      "title": " Backend developer",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing eli nostrum illum quia eos voluptas tempora optio explicabo natus"
+    },
+    {
+      "img": "/alice4.png",
+      "name": "Alice ",
+      "title": " Backend developer",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing eli nostrum illum quia eos voluptas tempora optio explicabo natus"
+    },
+    {
+      "img": "/alice5.png",
+      "name": "Alice ",
+      "title": " Backend developer",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing eli nostrum illum quia eos voluptas tempora optio explicabo natus"
+    },
+    {
+      "img": "/alice6.png",
+      "name": "Alice ",
+      "title": " Backend developer",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing eli nostrum illum quia eos voluptas tempora optio explicabo natus"
+    }
+  ]
+}
