@@ -3,7 +3,7 @@ import { FiGithub } from "react-icons/fi";
 import { BiLogoFacebook } from "react-icons/bi";
 import { AiOutlineTwitter } from "react-icons/ai";
 import { BsInstagram } from "react-icons/bs";
-
+import { NavLink } from "react-router-dom";
 const Footer = () => {
   return (
     <div className="bg-black text-white mt-8 md:mt-0">
@@ -35,36 +35,36 @@ const Footer = () => {
         <div>
           <h1 className=" font-medium text-xl pb-4 pt-5 md:pt-0">Links</h1>
           <nav className=" flex flex-col gap-2">
-            <a
+            <NavLink
               className=" hover:text-backgroundColor transition-all cursor-pointer"
-              href="/"
+              to="/"
             >
               Home
-            </a>
-            <a
+            </NavLink>
+            <NavLink
               className=" hover:text-backgroundColor transition-all cursor-pointer"
-              href="/project"
+              to="/project"
             >
               Project
-            </a>
-            <a
+            </NavLink>
+            <NavLink
               className=" hover:text-backgroundColor transition-all cursor-pointer"
-              href="/service"
+              to="/service"
             >
               Service
-            </a>
-            <a
+            </NavLink>
+            <NavLink
               className=" hover:text-backgroundColor transition-all cursor-pointer"
-              href="/team"
+              to="/team"
             >
               Team
-            </a>
-            <a
+            </NavLink>
+            <NavLink
               className=" hover:text-backgroundColor transition-all cursor-pointer"
-              href="/testimonial"
+              to="testimonial"
             >
               Testimonial
-            </a>
+            </NavLink>
           </nav>
         </div>
 
