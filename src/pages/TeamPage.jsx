@@ -1,8 +1,5 @@
 import React from "react";
 import { AiOutlineRight } from "react-icons/ai";
-import img1 from "../assets/images/devon1.png";
-import img2 from "../assets/images/danny1.png";
-import img3 from "../assets/images/alex copy.png";
 import { BiLogoFacebook } from "react-icons/bi";
 import { AiOutlineTwitter } from "react-icons/ai";
 import { BsInstagram } from "react-icons/bs";

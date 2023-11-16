@@ -1,9 +1,5 @@
 import React from "react";
 import Button from "./Button";
-import img1 from "../assets/images/Rectangle1241.png";
-import img2 from "../assets/images/Rectangle1243.png";
-import img3 from "../assets/images/Rectangle1242.png";
-import img4 from "../assets/images/Rectangle1244.png";
 
 const HeroList = () => {
   return (

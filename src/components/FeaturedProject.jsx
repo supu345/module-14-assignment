@@ -1,9 +1,4 @@
 import React from "react";
-import img1 from "../assets/images/Mask5.png";
-import img2 from "../assets/images/Mask1.png";
-import img3 from "../assets/images/Mask4.png";
-import img4 from "../assets/images/Mask2.png";
-import img5 from "../assets/images/Mask3.png";
 
 const FeaturedProject = () => {
   return (

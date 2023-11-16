@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { AiOutlineRight } from "react-icons/ai";
-import img1 from "../assets/images/alice1.png";
 
 const TestimonialPage = () => {
   const [data, setData] = useState([]);

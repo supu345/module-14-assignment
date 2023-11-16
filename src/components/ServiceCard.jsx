@@ -1,8 +1,4 @@
 import React from "react";
-import img1 from "../assets/images/123.png";
-import img2 from "../assets/images/124.png";
-import img3 from "../assets/images/125.png";
-import img4 from "../assets/images/126.png";
 
 const ServiceCard = () => {
   return (
